@@ -1,2 +1,1 @@
-# tammati
-Incense Stick business
+https://ashishnex007.github.io/tammati/
